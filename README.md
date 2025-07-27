@@ -21,7 +21,6 @@ Final year IT student specializing in development, Python, data analytics, and m
 - 💻 Build responsive and interactive web applications using **ReactJS** & **Node.js**  
 - 🐍 Write clean, modular Python code for automation, analytics, and ML workflows  
 - 📊 Perform data analysis using **Pandas**, **NumPy**, and visualize insights with **Matplotlib** and **Seaborn**  
-- 🧠 Learn and experiment with machine learning models  
 - 🌐 Create Python-based web apps with **Flask**, **FastAPI**, and **Streamlit**  
 - 🖥️ Build GUI-based desktop apps using **Tkinter** and **PyQt5**  
 - 🗄️ Manage and query data using **MySQL**
@@ -63,10 +62,12 @@ VS Code, Git, GitHub, Jupyter Notebook, Kaggle, Streamlit Cloud, Local Flask/Fas
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=flat&logo=python&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-42B029?style=flat&logo=anaconda&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
 
 ---
 
